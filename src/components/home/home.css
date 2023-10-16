@@ -1,0 +1,336 @@
+
+
+.thankyou-message{
+    background-color: #e0f780;
+    height: 50px;
+    margin: 0px 0px 30px 0px;
+    border-radius: 5px;
+}
+
+.thankyou-message p{
+    color: #000000;
+    padding-top: 14px;
+}
+
+
+/* Black Theme*/
+
+:root {
+    --color-body: #b6cbce;
+    --color-heading: #eef3db;
+    --color-base: #000000 !important;
+    --color-base2: #000000 !important;
+    --color-brand: #e0f780;
+    --color-brand2: #deff58;
+    --sidbar-width: 240px;
+    --font-base: "Bai Jamjuree";
+}
+
+.navbar {
+    background-color: #000000 !important;
+    background:  rgba(255,255,255, 0.1) !important;
+    border-right: 2px solid rgba(255,255,255, 0. 1);
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.fixed-top {
+    background-color: #1a1a1a !important;
+}
+
+
+
+/* section#home {
+    box-shadow: 0px 10px 50px -20px;
+}
+
+section#services {
+    box-shadow: 0px 10px 50px -20px;
+}
+
+section#work {
+    box-shadow: 0px 10px 50px -20px;
+}
+
+section#about{
+    box-shadow: 0px 10px 50px -20px;
+
+}
+
+section#reviews {
+    box-shadow: 0px 10px 50px -20px;
+}
+
+section#blog {
+    box-shadow: 0px 10px 50px -20px;
+}
+
+section#contact {
+    box-shadow: 0px 10px 50px -20px;
+} */
+
+
+.profile-image {
+    height: 150px;
+}
+
+
+
+
+.service-middle{
+
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    border-radius: 15px;
+    padding: 0.01px;
+    height: 400px;
+
+}
+
+.work-middle{
+
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    border-radius: 15px;
+    padding: 0.01px;
+    height: 640px;
+    
+
+}
+
+.about-middle{
+
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    border-radius: 15px;
+    padding: 0.01px;
+}
+
+.reviews-middle{
+
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    border-radius: 15px;
+    padding: 0.01px;
+}
+
+.blog-middle{
+
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    border-radius: 15px;
+    padding: 0.01px;
+}
+
+.contact-middle{
+
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    border-radius: 5px;
+    padding: 0.01px;
+}
+
+
+
+
+.service-inner{
+
+    margin: 1px !important;
+    position: relative;
+    transition:   1s;
+    height: 360px;
+    
+
+}
+
+.work-inner{
+
+    margin: 1px !important;
+    position: relative;
+    transition:   1s;
+    height: 600px;
+    
+
+}
+
+.reviews-inner{
+
+    margin: 1px !important;
+    position: relative;
+    transition:   1s;
+    
+}
+
+.blog-inner{
+
+    margin: 1px !important;
+    position: relative;
+    transition:   1s;
+    
+
+}
+
+.contact-inner{
+
+    margin: 1px !important;
+    position: relative;
+    transition:   1s;
+    
+}
+
+
+.about-inner{
+    margin: 1px !important;
+    position: relative;
+    transition:   1s;
+}
+
+.profile-border{
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    border-radius: 50%;
+    padding: 5px;
+    
+}
+
+.button-border{
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    padding: 3px;
+    border-radius: 8px;
+    width: 257px !important;
+    margin-bottom: 20px;
+}
+
+.button-border button {
+    background-color: #000000 !important;
+    width: 250px !important;
+    border: red;
+    border-radius: 5px;
+    
+}
+
+.btn-explore{
+    color: white !important;
+}
+
+.button-col{
+        justify-content: center;
+        display: flex;
+        margin-top: 50px !important;
+}
+
+.navbar-brand img{
+    border: none !important;
+
+}
+
+
+
+span.text-brand {
+   
+    background-image: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+.text-brand {
+   
+    background-image: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    
+}
+
+a:hover{
+   
+    background-image: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+
+    text-decoration: underline;
+    color: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%) !important;
+    transition: all 0.4s ease;
+    
+}
+
+i.lab.la-github, i.lab.la-linkedin {
+    background-image: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.link-custom::after {
+    
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%) !important;
+    
+}
+
+
+/* #contact .form-control {
+    border-color: var(--color-brand) !important;
+    box-shadow: none;
+} */
+
+.contact-button{
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%) !important;
+    color: #000000 !important;
+}
+
+
+
+
+.heading{
+    color: #ffffff !important;
+}
+
+.sub-heading {
+    -webkit-text-fill-color: transparent !important;
+    -webkit-background-clip: text !important;
+    background-image: linear-gradient(90deg,#ff0f7b,#f89c2a) !important;
+}
+
+.education-text{
+    margin: 50px 0px !important;
+    padding: 0px 0px 25px 0px;
+}
+
+
+.used-tech{
+    text-align: right;
+}
+
+.used-tech p{
+    margin-top: -25px;
+}
+
+a.workhref:hover {
+    color: #eef3db !important ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .about-middle {
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    border-radius: 17px;
+    padding: 0.01px;
+} */
+
+
+
+
+     /* <div className="col-12 about-outer" data-aos="fade-up" data-aos-delay="600">
+                                <div className="about-middle">
+                                <div className="bg-base p-4 rounded-4 about-inner">
+                                    <h4>Web Developer</h4>
+                                    <p className="text-brand mb-2">Taashee Linux Services Pvt Ltd (Jan 2019 to Feb 2022)</p>
+                                    <p className="mb-0">All we are more and design lorem ipsum dolor creativity sit amet consectetur adipisicing elit</p>
+                                </div>
+                                </div>
+                            </div>  */
+
+
+
+
+                           
