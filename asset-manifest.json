@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Web-Portfolio/static/css/main.c1c9a63b.css",
-    "main.js": "/Web-Portfolio/static/js/main.e65a9759.js",
+    "main.js": "/Web-Portfolio/static/js/main.af0d7d2f.js",
     "static/js/787.381d1261.chunk.js": "/Web-Portfolio/static/js/787.381d1261.chunk.js",
     "static/media/la-brands-400.svg": "/Web-Portfolio/static/media/la-brands-400.928495fae14841a0d610.svg",
     "static/media/la-solid-900.svg": "/Web-Portfolio/static/media/la-solid-900.a813034654b4ff0a0bac.svg",
@@ -26,11 +26,11 @@
     "static/media/la-regular-400.woff2": "/Web-Portfolio/static/media/la-regular-400.8dc1cedf1f4987f82b72.woff2",
     "index.html": "/Web-Portfolio/index.html",
     "main.c1c9a63b.css.map": "/Web-Portfolio/static/css/main.c1c9a63b.css.map",
-    "main.e65a9759.js.map": "/Web-Portfolio/static/js/main.e65a9759.js.map",
+    "main.af0d7d2f.js.map": "/Web-Portfolio/static/js/main.af0d7d2f.js.map",
     "787.381d1261.chunk.js.map": "/Web-Portfolio/static/js/787.381d1261.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c9a63b.css",
-    "static/js/main.e65a9759.js"
+    "static/js/main.af0d7d2f.js"
   ]
 }
